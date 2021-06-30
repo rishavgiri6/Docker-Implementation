@@ -1,8 +1,8 @@
 # Docker-Implementation
 
 Docker Registry Browser
-Build Status: COMPLETE as of 12/12/19
-Author:Rishav Giri
+#Build Status: COMPLETE as of 12/12/19
+#Author:Rishav Giri
 
 Web Interface for the Docker Registry HTTP API V2 written in Ruby on Rails.
 
